@@ -27,6 +27,10 @@ export const headerData = {
           text: 'Plebnet Wiki',
           href: 'https://plebnet.wiki',
         },
+        {
+          text: 'Members directory',
+          href: '/directory',
+        },
       ],
     },
     {
